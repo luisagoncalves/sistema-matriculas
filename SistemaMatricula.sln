@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaMatricula", "SistemaMatricula.csproj", "{3C2A02C8-657F-429F-8D74-87FA263EF824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C2A02C8-657F-429F-8D74-87FA263EF824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2A02C8-657F-429F-8D74-87FA263EF824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2A02C8-657F-429F-8D74-87FA263EF824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2A02C8-657F-429F-8D74-87FA263EF824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F33EC0-7CA5-4327-ADD1-3872FD50DD8D}
+	EndGlobalSection
+EndGlobal

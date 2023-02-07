@@ -1,0 +1,17 @@
+C:\Users\luisa\csharp\SistemaMatricula\bin\Debug\net7.0-windows\SistemaMatricula.exe
+C:\Users\luisa\csharp\SistemaMatricula\bin\Debug\net7.0-windows\SistemaMatricula.deps.json
+C:\Users\luisa\csharp\SistemaMatricula\bin\Debug\net7.0-windows\SistemaMatricula.runtimeconfig.json
+C:\Users\luisa\csharp\SistemaMatricula\bin\Debug\net7.0-windows\SistemaMatricula.dll
+C:\Users\luisa\csharp\SistemaMatricula\bin\Debug\net7.0-windows\SistemaMatricula.pdb
+C:\Users\luisa\csharp\SistemaMatricula\obj\Debug\net7.0-windows\SistemaMatricula.csproj.AssemblyReference.cache
+C:\Users\luisa\csharp\SistemaMatricula\obj\Debug\net7.0-windows\SistemaMatricula.csproj.GenerateResource.cache
+C:\Users\luisa\csharp\SistemaMatricula\obj\Debug\net7.0-windows\SistemaMatricula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\csharp\SistemaMatricula\obj\Debug\net7.0-windows\SistemaMatricula.AssemblyInfoInputs.cache
+C:\Users\luisa\csharp\SistemaMatricula\obj\Debug\net7.0-windows\SistemaMatricula.AssemblyInfo.cs
+C:\Users\luisa\csharp\SistemaMatricula\obj\Debug\net7.0-windows\SistemaMatricula.csproj.CoreCompileInputs.cache
+C:\Users\luisa\csharp\SistemaMatricula\obj\Debug\net7.0-windows\SistemaMatricula.dll
+C:\Users\luisa\csharp\SistemaMatricula\obj\Debug\net7.0-windows\refint\SistemaMatricula.dll
+C:\Users\luisa\csharp\SistemaMatricula\obj\Debug\net7.0-windows\SistemaMatricula.pdb
+C:\Users\luisa\csharp\SistemaMatricula\obj\Debug\net7.0-windows\SistemaMatricula.genruntimeconfig.cache
+C:\Users\luisa\csharp\SistemaMatricula\obj\Debug\net7.0-windows\ref\SistemaMatricula.dll
+C:\Users\luisa\csharp\SistemaMatricula\obj\Debug\net7.0-windows\SistemaMatricula.Matricula.resources
